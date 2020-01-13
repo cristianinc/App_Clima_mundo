@@ -6,7 +6,10 @@
   "scripts": {
     "start": "nodemon src/index.js localhost 8080"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios": "^0.19.1",
+    "yargs": "^15.1.0"
+  },
   "devDependencies": {
     "nodemon": "1.18.4"
   },
